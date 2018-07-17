@@ -1,0 +1,9 @@
+
+1squid:S1220""Move this file to a named package.
+Lsquid:S1481/")Remove this unused "text" local variable.(ÙÛŞ“úÿÿÿÿ8¬İãŒÊ,
+Wsquid:S18540"9Remove this useless assignment to local variable "text2".(”Â›8õ¼àŒÊ,
+^squid:UselessImportCheck".Remove this unused import 'producer.Producer'.(íë£šùÿÿÿÿ8ì’üÊ,
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ïŞ8¬İãŒÊ,
+usquid:S1192"RDefine a constant instead of duplicating this literal "helloworld.topic1" 3 times.(©Áè¡øÿÿÿÿ8ÀŞìŒÊ,
+Hsquid:S14810"*Remove this unused "text2" local variable.(”Â›8õ¼àŒÊ,
+[squid:S1854/"8Remove this useless assignment to local variable "text".(ÙÛŞ“úÿÿÿÿ8¬İãŒÊ,

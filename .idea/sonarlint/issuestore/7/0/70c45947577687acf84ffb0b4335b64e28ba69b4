@@ -1,0 +1,8 @@
+
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ì¨Ğë8¦’‰Ê,
+~squid:S1450"`Remove the "connectionFactory" field and declare it as a local variable in the relevant methods.(£ˆ˜8Ğ±æŒÊ,
+U
+squid:S1067"9Replace this use of System.out or System.err by a logger.(“£Í8¦’‰Ê,
+Lsquid:S1068".Remove this unused "NO_MESSAGE" private field.(ûÙ¥ü8¦’‰Ê,
+ssquid:S3008"URename this field "NO_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÙ¥ü8¦’‰Ê,
